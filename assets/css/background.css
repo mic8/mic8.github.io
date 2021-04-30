@@ -1,0 +1,78 @@
+.bg-1 {
+    background-image: url('../backgrounds/bg-1.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-2 {
+    background-image: url('../backgrounds/bg-2.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-3 {
+    background-image: url('../backgrounds/bg-3.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-4 {
+    background-image: url('../backgrounds/bg-4.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-5 {
+    background-image: url('../backgrounds/bg-5.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-6 {
+    background-image: url('../backgrounds/bg-6.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-6-stretched {
+    background-image: url('../backgrounds/bg-6.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-7 {
+    background-image: url('../backgrounds/bg-7.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-8 {
+    background-image: url('../backgrounds/bg-8.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-9 {
+    background-image: url('../backgrounds/bg-9.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-10 {
+    background-image: url('../backgrounds/bg-10.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-11 {
+    background-image: url('../backgrounds/bg-11.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.bg-12 {
+    background-image: url('../backgrounds/bg-12.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Serendipity';
+    src: url('../fonts/serendipity/Serendipity.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Natsuki';
+    src: url('../fonts/natsuki/Natsuki.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sweetpea';
+    src: url('../fonts/sweetpea/Sweetpea.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playlist Caps';
+    src: url('../fonts/playlist/Playlist Caps.otf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playlist Script';
+    src: url('../fonts/playlist/Playlist Script.otf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Priscilla';
+    src: url('../fonts/priscilla/Priscilla Script.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Betterfly';
+    src: url('../fonts/betterfly/betterfly.ttf');
+    font-weight: bold;
+    font-display: swap;
+}
+
+.font-serendipity {
+    font-family: 'Serendipity', 'Serif';
+}
+
+.font-natsuki {
+    font-family: 'Natsuki', 'Serif';
+}
+
+.font-sweepea {
+    font-family: 'Sweetpea', 'Serif';
+}
+
+.font-playlist-caps {
+    font-family: 'Playlist Caps', 'Serif';
+}
+
+.font-playlist-script {
+    font-family: 'Playlist Script', 'Serif';
+}
+
+.font-priscilla {
+    font-family: 'Priscilla', 'Serif';
+}
+
+.font-betterfly {
+    font-family: 'Betterfly', 'Serif';
+}
